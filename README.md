@@ -30,8 +30,8 @@
 - Accuracy: **97.46%**  
 
 <p align="center">
-  <img src="image/large.png" alt="Confusion Matrix (Full Dataset)" width="400"/>
-  <img src="image/small.png" alt="Confusion Matrix (Balanced Dataset)" width="400"/>
+  <img src="image/large.PNG" alt="Confusion Matrix (Full Dataset)" width="400"/>
+  <img src="image/small.PNG" alt="Confusion Matrix (Balanced Dataset)" width="400"/>
 </p>
 
 
